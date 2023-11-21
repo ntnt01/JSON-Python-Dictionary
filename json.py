@@ -7,7 +7,7 @@ data = {
     "age": 50,
     "city": "San Diego",
     "interest": ["stock trading", "video games", "running"],
-    "is_student": True,
+    "is_student": True
 }
 
 # use the 'with' statement to open and write to a file named data.json
