@@ -1,0 +1,11 @@
+{
+    "name": "John Doe",
+    "age": 50,
+    "city": "San Diego",
+    "interest": [
+      "stock trading",
+      "video games",
+      "running"
+    ],
+    "is_student": True
+}
